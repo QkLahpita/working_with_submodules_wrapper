@@ -1,0 +1,6 @@
+[submodule "working_with_submodules_submodule_1"]
+	path = working_with_submodules_submodule_1
+	url = https://github.com/QkLahpita/working_with_submodules_submodule_1.git
+[submodule "working_with_submodules_submodule2"]
+	path = working_with_submodules_submodule2
+	url = https://github.com/QkLahpita/working_with_submodules_submodule2.git
